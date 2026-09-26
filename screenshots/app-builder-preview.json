@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Israelee Academy",
+      "hasCanvas": false,
+      "bodyTextLen": 5110,
+      "bodyTextHash": "5c6e9558a01acab0f7a49d35cd31c84a9b45ca0405836ff08a41e2dc49b32c8c",
+      "bodyTextPrefix": "ISRAELEE ACADEMY Home About Courses Approach Projects Certificat",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Israelee Academy",
+      "hasCanvas": false,
+      "bodyTextLen": 5019,
+      "bodyTextHash": "c610bca5caa1111def7e6f5306d0b197d62b5f72f25e24355b1bde919fca435b",
+      "bodyTextPrefix": "ISRAELEE ACADEMY 10-WEEK INTENSIVE · VIDEO · ANIMATION · AI Lear",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
