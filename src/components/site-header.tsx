@@ -15,7 +15,7 @@ export function SiteHeader() {
       <Container className="flex h-16 items-center justify-between gap-4 sm:h-[4.5rem]">
         <Link to="/" className="flex min-w-0 items-center gap-3" onClick={() => setOpen(false)}>
           <img
-            src="/brand/logo-mark.png"
+            src="/brand/logo.jpg"
             alt=""
             className="size-10 rounded-md object-cover"
           />
