@@ -8,7 +8,7 @@ export function SiteFooter() {
       <Container className="grid gap-10 py-14 sm:grid-cols-2 lg:grid-cols-4">
         <div className="lg:col-span-2">
           <div className="flex items-center gap-3">
-            <img src="/brand/logo-mark.png" alt="" className="size-12 rounded-md object-cover" />
+            <img src="/brand/logo.jpg" alt="" className="size-12 rounded-md object-cover" />
             <div>
               <p className="font-display text-lg tracking-[0.16em]">ISRAELEE</p>
               <p className="text-xs tracking-[0.2em] text-muted uppercase">Academy</p>
